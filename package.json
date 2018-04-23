@@ -1,0 +1,22 @@
+{
+  "name": "node_lab",
+  "version": "1.0.0",
+  "description": "Node lab for Covalence to practice using read, write, and append functions and also using JSON requests using request.",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielJBailey/Node-Lab-One.git"
+  },
+  "author": "Daniel Bailey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanielJBailey/Node-Lab-One/issues"
+  },
+  "homepage": "https://github.com/DanielJBailey/Node-Lab-One#readme",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
